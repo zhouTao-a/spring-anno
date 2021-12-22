@@ -14,4 +14,7 @@ import java.lang.annotation.Target;
 @Target(ElementType.METHOD)
 @Bean
 public @interface MyBean {
+
+
 }
+
